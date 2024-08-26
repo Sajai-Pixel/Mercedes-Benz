@@ -1,0 +1,29 @@
+.car-card {
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.car-card-image {
+    margin-bottom: 20px;
+}
+
+.car-card-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.car-card-title {
+    color: #fff;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.car-card-price {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: goldenrod;
+}
